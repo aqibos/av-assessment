@@ -1,0 +1,14 @@
+{
+  "name": "coding-exercise-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validParentheses.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aqib Shah",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}

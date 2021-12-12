@@ -1,0 +1,26 @@
+.TextField .input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 1em;
+}
+
+.TextField > .input > * {
+    margin: 0.15rem 0;
+}
+
+.TextField .input label {
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.TextField .input input {
+    width: 100%;
+}
+
+.TextField .error {
+    text-align: left;
+    font-size: 0.8rem;
+    color: red;
+}

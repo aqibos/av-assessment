@@ -1,0 +1,14 @@
+{
+  "name": "coding-exercise-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aqib Shah",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.0.3"
+  }
+}
